@@ -1,0 +1,1 @@
+ C:\\Users\\USER\\Documents\\Projects\\primer_aplicacion\\imc_calculator\\.dart_tool\\flutter_build\\069414599967e621d683fd682abb5045\\dart_build_result.json: 
